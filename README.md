@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]()
+![](./screenshot.png)
 
 ### Links
 
@@ -39,8 +39,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- BEM 
-- AOS
+- BEM
 
 ## Author
 
